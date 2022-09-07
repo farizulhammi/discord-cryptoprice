@@ -18,7 +18,6 @@
   "homepage": "https://github.com/farizulhammi/discord-cryptopricebot#readme",
   "dependencies": {
     "discord.js": "^13.10.3",
-    "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.19"
+    "node-fetch": "^2.6.7"
   }
 }
