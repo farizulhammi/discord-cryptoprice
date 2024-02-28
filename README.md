@@ -3,5 +3,6 @@
 ``
 npm install
 ``
+
 command :
 $ + ticker | $sol
